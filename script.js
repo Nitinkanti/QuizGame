@@ -56,7 +56,7 @@ let questions = [
       "static",
       "abstract",
       "final",
-      "private"
+      "public"
     ],
     "correct": "final"
   },
